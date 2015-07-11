@@ -1,6 +1,5 @@
 # Insightcodingchallenge
 Pratik Ghatpande
-pratikghatpande0@gmail.com
 
 Insight data science coding challenge
 two simple features 
